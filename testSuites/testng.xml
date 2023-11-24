@@ -14,7 +14,7 @@
   </test> <!-- Test -->
   
   <test thread-count="5" name="Error Validations Test">
-    <classes>
+    <classes>  
       <class name="rahulshettyacademy.tests.ErrorValidationsTest"/>
     </classes>
   </test> <!-- Test -->
